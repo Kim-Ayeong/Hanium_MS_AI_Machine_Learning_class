@@ -7,8 +7,10 @@
   - 첫째 날
     - 인공지능 개론/사례
     - 머신러닝 이론
-    - 실습 : Classification 
+    - 실습 : Classification > Titanic prediction, Exam pass prediction
   - 둘째 날
     - 머신러닝 알고리즘
-    - 실습 : Regression, Scikit-learn 라이브러리
+    - 실습
+      - Regression > Salary prediction, Walmart prediction
+      - Scikit-learn 라이브러리(Logistic Regression, SVM) > Purchase prediction
 
